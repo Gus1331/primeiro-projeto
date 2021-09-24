@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<link rel="shortcut icon" href="img/favicon.ico"
+<head>
+	<title> START grupo 1 </title>
+
+</head>
+<body style="font-family:verdana;" bgcolor="#F0F8FF">
+
+	<div> </div>
+
+	<p style="background-color:#6600FF" align= "center"> --- </p> 
+	<div align= "center" style="font-family:garamond;"> <h1> <p> <strong> <u> Direitos Humanos </u> </strong> </p> </h1> </div>
+	<p style="background-color:#6600FF" align= "center"> --- </p>
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+
+
+	<div align= "center" style="background-color:#3A75C4"> <img src="img/img10.jpeg"width="450"height="350"/> 
+		<img src="img/img9.jpeg"width="450"height="350"/>
+	</div>
+
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+
+	<div align="left">
+		<p align="center"> <h2> <strong> O que são os direitos humanos? </strong> </h2> </p>
+		<p> Segundo a UNIFEC "Os direitos humanos são normas que reconhecem e protegem a dignidade de todos os seres humanos. Os direitos humanos regem o modo como os seres humanos individualmente vivem em sociedade e entre si, bem como sua relação com o Estado e as obrigações que o Estado tem em relação a eles. </p>
+		<p> Os direitos humanos são universais e inalienáveis. Todas as pessoas em todo o mundo têm direito a eles. Ninguém pode voluntariamente desistir deles. Nem outros podem tirá-los dele ou dela.” </p>
+		<p> A Declaração Universal dos Direitos Humanos possui 30 artigos antecedido por um preâmbulo sendo eles: </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 1 </strong> </p>
+		<p> Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade. </p>
+
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 2 </strong> </p>
+		<p> 1. Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração, sem distinção de qualquer espécie, seja de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição. </P>
+		<p> 2. Não será também feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de um território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 3 </strong> </p>
+		<p> Todo ser humano tem direito à vida, à liberdade e à segurança pessoal. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 4 </strong> </p>
+		<p> Ninguém será mantido em escravidão ou servidão; a escravidão e o tráfico de escravos serão proibidos em todas as suas formas. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 5 </strong> </p>
+		<p> Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 6 </strong> </p>
+		<p> Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 7 </strong> </p>
+		<p> Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei. Todos têm direito a igual proteção contra qualquer discriminação que viole a presente Declaração e contra qualquer incitamento a tal discriminação. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 8 </strong> </p>
+		<p> Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 9 </strong> </p>
+		<p> Ninguém será arbitrariamente preso, detido ou exilado. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 10 </strong> </p>
+		<p> Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial, para decidir seus direitos e deveres ou fundamento de qualquer acusação criminal contra ele. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 11 </strong> </p>
+		<p> 1.Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as garantias necessárias à sua defesa. </p>
+		<p> 2. Ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituíam delito perante o direito nacional ou internacional. Também não será imposta pena mais forte de que aquela que, no momento da prática, era aplicável ao ato delituoso. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 12 </strong> </p>
+		<p> Ninguém será sujeito à interferência na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataque à sua honra e reputação. Todo ser humano tem direito à proteção da lei contra tais interferências ou ataques. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 13 </strong> </p>
+		<p> 1. Todo ser humano tem direito à liberdade de locomoção e residência dentro das fronteiras de cada Estado. </p>
+		<p> 2. Todo ser humano tem o direito de deixar qualquer país, inclusive o próprio e a esse regressar. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 14 </strong> </p>
+		<p> 1. Todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar asilo em outros países. </p>
+		<p> 2. Esse direito não pode ser invocado em caso de perseguição legitimamente motivada por crimes de direito comum ou por atos contrários aos objetivos e princípios das Nações Unidas. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 15 </strong> </p>
+		<p> 1. Todo ser humano tem direito a uma nacionalidade. </p>
+		<p> 2. Ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade. </p>	
+
+	</div>
+
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+
+
+	<div align= "right" style="background-color:black;"> <img src="img/img6.jpeg"width="450"height="350"/>
+		<img src="img/img1.jpeg"width="450"height="350"/>
+	</div>
+
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+
+	<div align="left">
+
+
+		<p style="color:white;"> ....... </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 16 </strong> </p>
+		<p> 1. Os homens e mulheres de maior idade, sem qualquer restrição de raça, nacionalidade ou religião, têm o direito de contrair matrimônio e fundar uma família. Gozam de iguais direitos em relação ao casamento, sua duração e sua dissolução. </p>
+		<p> 2. O casamento não será válido senão com o livre e pleno consentimento dos nubentes.  </p>
+		<p> 3. A família é o núcleo natural e fundamental da sociedade e tem direito à proteção da sociedade e do Estado. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 17 </strong> </p>
+		<p> 1. Todo ser humano tem direito à propriedade, só ou em sociedade com outros. </p>
+		<p> 2. Ninguém será arbitrariamente privado de sua propriedade. </p>
+
+		<p style="colo
+		<p> <strong> Artigo 21 </strong> </p>
+		<p> 1. Todo ser humano tem o direito de tomar parte no governo de seu país diretamente ou por intermédio de representantes livremente escolhidos. </p>
+		<p> 2. Todo ser humano tem igual direito de acesso ao serviço público do seu país. </p>
+		<p> 3. A vontade do povo será a base da autoridade do governo; essa vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 22 </strong> </p>
+		<p> Todo ser humano, como membro da sociedade, tem direito à segurança social, à realização pelo esforço nacional, pela cooperação internacional e de acordo com a organização e recursos de cada Estado, dos direitos econômicos, sociais e culturais indispensáveis à sua dignidade e ao livre desenvolvimento da sua personalidade. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 23 </strong> </p>
+		<p> 1. Todo ser humano tem direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego. </p>
+		<p> 2. Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho.  </p>
+		<p> 3. Todo ser humano que trabalha tem direito a uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana e a que se acrescentarão, se necessário, outros meios de proteção social.  </p>
+		<p> 4. Todo ser humano tem direito a organizar sindicatos e a neles ingressar para proteção de seus interesses. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 24 </strong> </p>
+		<p> Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 25 </strong> </p>
+		<p> 1. Todo ser humano tem direito a um padrão de vida capaz de assegurar a si e à sua família saúde, bem-estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis e direito à segurança em caso de desemprego, doença invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência em circunstâncias fora de seu controle. </p>
+		<p> 2. A maternidade e a infância têm direito a cuidados e assistência especiais. Todas as crianças, nascidas dentro ou fora do matrimônio, gozarão da mesma proteção social. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 26 </strong> </p>
+		<p> 1. Todo ser humano tem direito à instrução. A instrução será gratuita, pelo menos nos graus elementares e fundamentais. A instrução elementar será obrigatória. A instrução técnico-profissional será acessível a todos, bem como a instrução superior, está baseada no mérito. </p>
+		<p> 2. A instrução será orientada no sentido do pleno desenvolvimento da personalidade humana e do fortalecimento do respeito pelos direitos do ser humano e pelas liberdades fundamentais. A instrução promoverá a compreensão, a tolerância e a amizade entre todas as nações e grupos raciais ou religiosos e coadjuvará as atividades das Nações Unidas em prol da manutenção da paz. </p>
+		<p> 3. Os pais têm prioridade de direito na escolha do gênero de instrução que será ministrada a seus filhos. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 27 </strong> </p>
+		<p> 1. Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico e de seus benefícios. </p>
+		<p> 2. Todo ser humano tem direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica literária ou artística da qual seja autor. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 28 </strong> </p>
+		<p> Todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades estabelecidos na presente Declaração possam ser plenamente realizados. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 29 </strong> </p>
+		<p> 1. Todo ser humano tem deveres para com a comunidade, na qual o livre e pleno desenvolvimento de sua personalidade é possível. </p>
+		<p> 2. No exercício de seus direitos e liberdades, todo ser humano estará sujeito apenas às limitações determinadas pela lei, exclusivamente com o fim de assegurar o devido reconhecimento e respeito dos direitos e liberdades de outrem e de satisfazer as justas exigências da moral, da ordem pública e do bem-estar de uma sociedade democrática. </p>
+		<p> 3. Esses direitos e liberdades não podem, em hipótese alguma, ser exercidos contrariamente aos objetivos e princípios das Nações Unidas. </p>
+
+		<p style="color:white;"> ....... </p>
+		<p> <strong> Artigo 30 </strong> </p>
+		<p> Nenhuma disposição da presente Declaração poder ser interpretada como o reconhecimento a qualquer Estado, grupo ou pessoa, do direito de exercer qualquer atividade ou praticar qualquer ato destinado à destruição de quaisquer dos direitos e liberdades aqui estabelecidos. </p>
+		<p style="color:white;"> ....... </p>
+		<p align="center"> <iframe width="560" height="315" src="https://www.youtube.com/embed/uCnIKEOtbfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+	</div>
+
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+
+	<div align= "left" style="background-color:#FFDB58"> <img src="img/img4.jpeg"width="450"height="350"/> 
+		<img src="img/img11.jpeg"width="500"height="350"/>
+	</div>
+
+	<p style="color:white;"> ....... </p>
+
+	<p> <h2> <strong>  Bibliografia </strong> </h2> </p>
+	<p style="color:white;"> ....... </p>
+	<p> <strong> SEM AUTOR </strong> (2015). O que são direitos humanos? Os direitos Humanos pertencem a todos e todas e a cada um de nós igualmente. Acesso em 07 de agosto de 2021. </p>
+	<p> disponível em UNICEF:    <strong> <u> <a href="https://www.unicef.org/brazil/o-que-sao-direitos-humanos"> https://www.unicef.org/brazil/o-que-sao-direitos-humanos </a> </u> </strong> </p>
+	<p style="color:white;"> ....... </p>
+	<p> <strong> SEM AUTOR </strong> (s.d.). Declaração Universal dos Direitos Humanos Adotada e proclamada pela Assembleia Geral das Nações Unidas (resolução 217 A III) em 10 de dezembro 1948. Acesso em 07 de agosto de 2021. </p>
+	<p> disponível em UNICEF:    <strong> <u> <a href="https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos"> https://www.unicef.org/brazil/declaracao-universal-dos-direitos-humanos </a> </u> </strong> </p>
+
+	<p style="color:white;"> ....... </p>
+
+	<div align= "center" style="background-color:white;"> <img src="img/img2.jpeg"width="150"height="100"/> 
+		<img src="img/img3.jpeg"width="150"height="100"/> <img src="img/img5.jpeg"width="150"height="100"/> <img src="img/img7.jpeg"width="150"height="100"/> <img src="img/img8.jpeg"width="150"height="100"/>
+	</div>
+
+	<p style="color:white;"> ....... </p>
+	<p align="right" style="color:#08457E"> <u> Feito por:        </u> </p>
+	<p align="right" style="color:#08457E">     Bianca Domingues (Pesquisa de Texto; Vídeo)  </p>
+	<p align="right" style="color:#08457E">     Gustavo Oliveira (HTML)  </p>
+	<p align="right" style="color:#08457E">     Lucas Marzocca (Pesquisa de Texto e Apresentação)   </p>
+	<p align="right" style="color:#08457E">     Matheus Thomas (Pesquisa de Imagens)   </p>
+	<p align="right"> <a href="https://sites.google.com/view/professorashajardini/p%C3%A1gina-inicial"> START 2021 </a> </p>
+
+	<p style="color:white;"> ....... </p>
+	<p style="color:white;"> ....... </p>
+	<p align="center" style="background-color:red;"> ----- </p>
+
+
+</body>
+</html>
